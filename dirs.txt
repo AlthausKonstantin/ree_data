@@ -1,0 +1,15 @@
+.
+./enkf_sim_diffusion
+./enkf_flow_rate
+./cbree_sim
+./cbree_sim/diffusion_sim
+./cbree_sim/toy_problems
+./cbree_sim/nonlinear_oscillator
+./cbree_sim/indicator_functions_performance
+./cbree_sim/cbree_sim_flowrate
+./sis_sim_oscillator
+./enkf_sim
+./enkf_sim_oscillator
+./sis_sim_diffusion
+./sis_sim_flow_rate
+./sis_sim
