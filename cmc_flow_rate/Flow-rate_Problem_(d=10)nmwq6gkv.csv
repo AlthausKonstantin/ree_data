@@ -1,0 +1,2 @@
+Solver,Problem,Seed,Sample Size,Truth,Estimate,Cost,Steps,Message
+Crude Monte Carlo Simulation,Flow-rate Problem (d=10),0,640,0.000388,0.0003026,10000000,1,Success
